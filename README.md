@@ -37,10 +37,30 @@ npm run test
 # run specific test
 npm run test 'year'/'folder-name'/solution.test.js
 ```
-
 ## 🎯 2023 Challenges
 
+<details open>
+<summary>Show / Hide</summary>
+
+|  #  | Challenge                                                         |Status |                                                    My Solution                                           |
+| :-: | ----------------------------------------------------------------- |:----: | :------------------------------------------------------------------------------------------------------: |
+| 01  | [El Reto](https://codember.dev)                                   |✅     |        [here](https://github.com/marcode24/codember-solutions/tree/main/2023/01-el-reto)                 |
+
 ## 🎯 2022 Challenges
+
+<details open>
+<summary>Show / Hide</summary>
+
+|  #  | Challenge                                                         |Status |                                                    My Solution                                           |
+| :-: | ----------------------------------------------------------------- |:----: | :------------------------------------------------------------------------------------------------------: |
+| 01  | [¡Arregla Twitter!](https://codember.dev)                         |✅     |        [here](https://github.com/marcode24/codember-solutions/tree/main/2022/01-arregla-twitter)         |
+| 02  | [¡Atrapa a esos ciber criminales!](https://codember.dev)          |✅     | [here](https://github.com/marcode24/codember-solutions/tree/main/2022/02-atrapa-a-esos-ciber-criminales) |
+| 03  | [La zebra de colores](https://codember.dev)                       |✅     |        [here](https://github.com/marcode24/codember-solutions/tree/main/2022/03-zebra-de-colores)        |
+| 04  | [Encuentra la contraseña de tu amigo](https://codember.dev)       |✅     |       [here](https://github.com/marcode24/codember-solutions/tree/main/2022/04-encuentra-password)       |
+| 05  | [Battle Royale de frameworks y bibliotecas](https://codember.dev) |✅     |         [here](https://github.com/marcode24/codember-solutions/tree/main/2022/05-battle-royale)          |
+
+</details>
+
 
 ## 📝 License
 
