@@ -45,6 +45,9 @@ npm run test 'year'/'folder-name'/solution.test.js
 |  #  | Challenge                                                         |Status |                                                    My Solution                                           |
 | :-: | ----------------------------------------------------------------- |:----: | :------------------------------------------------------------------------------------------------------: |
 | 01  | [El Reto](https://codember.dev)                                   |✅     |        [here](https://github.com/marcode24/codember-solutions/tree/main/2023/01-el-reto)                 |
+| 02  | [Mini Compiler Challenge](https://codember.dev)                   |✅     | [here](https://github.com/marcode24/codember-solutions/tree/main/2023/02-mini-compiler)                  |
+
+</details>
 
 ## 🎯 2022 Challenges
 
