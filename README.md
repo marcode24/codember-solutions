@@ -49,6 +49,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 |  #  | Challenge                                                         |Status |                                                    My Solution                                           |
 | :-: | ----------------------------------------------------------------- |:----: | :------------------------------------------------------------------------------------------------------: |
 | 01  | [!Consigue acceso a la terminal!](https://codember.dev)           |  ✅   |                              [here](./2024/01-consigue-acceso-a-la-terminal/solution.js)                 |
+| 02  | [Detectando acceso no deseado](https://codember.dev)              |  ✅   |                              [here](./2024/02-detectando-acceso-no-deseado/solution.js)                   |
 </details>
 
 ## 🎯 2023 Challenges
