@@ -1,5 +1,8 @@
 <div align="center">
-  <img alt="codember 2022" src="https://res.cloudinary.com/dfeujtobk/image/upload/v1671160716/Challenges/codember_foznhx.png" width="1200" />
+  <img
+    alt="codember 2024" 
+    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1731961764/Challenges/mg5z3j3rlhhqws4ktp3p.png"
+    width="1200" />
   <br />
   <br />
 
@@ -37,9 +40,20 @@ npm run test
 # run specific test
 npm run test 'year'/'folder-name'/solution.test.js
 ```
-## 🎯 2023 Challenges
+
+## 🎯 2024 Challenges
 
 <details open>
+<summary>Show / Hide</summary>
+
+|  #  | Challenge                                                         |Status |                                                    My Solution                                           |
+| :-: | ----------------------------------------------------------------- |:----: | :------------------------------------------------------------------------------------------------------: |
+| 01  | [!Consigue acceso a la terminal!](https://codember.dev)           |  ✅   |                              [here](./2024/01-consigue-acceso-a-la-terminal/solution.js)                 |
+</details>
+
+## 🎯 2023 Challenges
+
+<details hidde>
 <summary>Show / Hide</summary>
 
 |  #  | Challenge                                                         |Status |                                                    My Solution                                           |
@@ -51,7 +65,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 
 ## 🎯 2022 Challenges
 
-<details open>
+<details hidde>
 <summary>Show / Hide</summary>
 
 |  #  | Challenge                                                         |Status |                                                    My Solution                                           |
